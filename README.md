@@ -1,9 +1,9 @@
 # Real-estate-Wealthome
 
-##Overview
+## Overview
 This project is a Real Estate Website designed to help users buy, sell, or rent properties. It provides a seamless interface for users to browse property listings, view details, and contact sellers.
 
-##Features
+## Features
 Responsive Design: Optimized for both desktop and mobile devices.
 
 Property Listings: Displays properties with images, descriptions, and pricing details.
